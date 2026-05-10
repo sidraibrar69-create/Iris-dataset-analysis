@@ -13,3 +13,8 @@ This project explores the Iris dataset using:
 - Scatter plots
 - Histograms
 - Box plots
+
+## Libraries Used
+- pandas
+- seaborn
+- matplotlib

@@ -1,2 +1,15 @@
-# Iris-dataset-analysis
-Iris dataset analysis using pandas and seaborn
+# Iris Dataset Analysis
+
+This project explores the Iris dataset using:
+
+- Pandas
+- Seaborn
+- Matplotlib
+
+## Features
+
+- Data inspection
+- Summary statistics
+- Scatter plots
+- Histograms
+- Box plots
